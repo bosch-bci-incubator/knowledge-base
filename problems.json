@@ -1,0 +1,55 @@
+{
+  "fertigungsprobleme": [
+    {
+      "problem": "Überhitzung der Maschine",
+      "resolution": [
+        "Maschine sofort abschalten",
+        "Temperatur der Komponenten überprüfen",
+        "Kühlmittel nachfüllen oder Kühlsystem überprüfen",
+        "Maschine nach dem Abkühlen wieder in Betrieb nehmen",
+        "Falls Problem fortbesteht, Wartungsteam benachrichtigen"
+      ]
+    },
+    {
+      "problem": "Verstopfung der Förderbänder",
+      "resolution": [
+        "Produktion anhalten",
+        "Förderbänder auf Fremdkörper überprüfen",
+        "Verstopfung entfernen und Band reinigen",
+        "Mechanismus auf Schäden prüfen",
+        "Testlauf durchführen, bevor Produktion fortgesetzt wird"
+      ]
+    },
+    {
+      "problem": "Druckluftausfall",
+      "resolution": [
+        "Druckluftleitung auf Undichtigkeiten prüfen",
+        "Kompressorstatus kontrollieren",
+        "Falls notwendig, Druckluftfilter reinigen oder ersetzen",
+        "Luftdruckstabilität sicherstellen",
+        "Testlauf durchführen und Maschinenbetrieb wieder aufnehmen"
+      ]
+    },
+    {
+      "problem": "Sensorfehler",
+      "resolution": [
+        "Fehlermeldung im System auslesen",
+        "Sensor auf Verschmutzung prüfen und reinigen",
+        "Sensorverbindungen kontrollieren und gegebenenfalls neu anschließen",
+        "Falls notwendig, Sensor austauschen",
+        "Neukalibrierung des Sensors durchführen"
+      ]
+    },
+    {
+      "problem": "Unwucht bei rotierenden Teilen",
+      "resolution": [
+        "Maschine anhalten",
+        "Unwuchtquelle identifizieren (z.B. lose Schrauben, beschädigte Lager)",
+        "Korrekturmaßnahmen durchführen (z.B. Schrauben nachziehen, Lager austauschen)",
+        "Testlauf mit Vibrationsmessung durchführen",
+        "Wenn stabil, Maschine wieder in Betrieb nehmen"
+      ]
+    },
+
+  ]
+}
